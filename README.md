@@ -1,3 +1,3 @@
 # NWPU-Traffic
-We are going to release our annotated NWPU-Traffic dataset here, which is the first comprehensive remote sensing dataset covering cars, ships, airplanes, and trains. It is currently being organized. We have already released the code we proposed.
+We have released our annotated NWPU-Traffic dataset at https://drive.google.com/drive/folders/1LobucN-znqknQrHJs0_jZcqJfAaqt1qz?hl=zh-cn , which is the first comprehensive remote sensing dataset covering cars, ships, airplanes, and trains. It is currently being organized. We have already released the code we proposed.
 This code is based on GeoSeg. We would like to express our gratitude for these excellent works.
